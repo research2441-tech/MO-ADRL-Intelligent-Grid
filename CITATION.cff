@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If this software is used, please cite it as below."
+title: "MO-ADRL: Multi-Objective Adaptive Deep Reinforcement Learning for Intelligent Grids with High Renewable Penetration"
+version: 1.0.0
+date-released: 2026-10-07
+license: MIT
+authors:
+  - family-names: Sharma
+    given-names: Puneet
+  - family-names: Srinivasarao
+    given-names: B.N.
+  - family-names: Reddy
+    given-names: K L Raghavender
+  - family-names: Heera
+    given-names: Mahendihasan S.
+  - family-names: Sree
+    given-names: S. Rama
+  - family-names: Rajendran
+    given-names: Naveen Kumar
+repository-code: "https://github.com/rajendrannaveenkumar9-dot/MO-ADRL-Intelligent-Grid"

@@ -1,0 +1,16 @@
+{
+  "title": "MO-ADRL: Multi-Objective Adaptive Deep Reinforcement Learning for Intelligent Grids with High Renewable Penetration",
+  "upload_type": "software",
+  "license": "MIT",
+  "version": "1.0.0",
+  "creators": [
+    {"name": "Sharma, Puneet"},
+    {"name": "Srinivasarao, B.N."},
+    {"name": "Reddy, K L Raghavender"},
+    {"name": "Heera, Mahendihasan S."},
+    {"name": "Sree, S. Rama"},
+    {"name": "Rajendran, Naveen Kumar"}
+  ],
+  "keywords": ["deep reinforcement learning", "intelligent grid", "multi-objective optimization", "renewable energy", "battery energy storage", "temporal transformer", "prioritized experience replay"],
+  "description": "Source code for the MO-ADRL framework: intelligent-grid simulator, Temporal Transformer forecaster, actor-critic agent with adaptive multi-objective reward weighting, prioritized experience replay and uncertainty-aware exploration, together with rule-based, PSO and GA baselines and convergence-analysis scripts."
+}
